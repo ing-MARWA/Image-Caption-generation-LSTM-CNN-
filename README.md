@@ -6,7 +6,7 @@ This project is an implementation of an image caption generator using the Flickr
 
 ## Dataset
 
-The [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k/download?datasetVersionNumber=1) dataset consists of 8,000 images sourced from the Flickr website. Each image in the dataset has multiple human-generated captions, providing rich textual descriptions.
+The [Flickr8k](https://www.kaggle.com/datasets/adityajn105/flickr8k) dataset consists of 8,000 images sourced from the Flickr website. Each image in the dataset has multiple human-generated captions, providing rich textual descriptions.
 
 To use this project, you will need to download and preprocess the Flickr8k dataset before training your model. Please refer to the `data_preprocessing.ipynb` notebook for detailed instructions on how to download and prepare the data.
 
